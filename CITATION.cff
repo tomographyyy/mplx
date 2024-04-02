@@ -4,8 +4,8 @@ authors:
 - family-names: "Takagawa"
   given-names: "Tomohiro"
   orcid: "https://orcid.org/0000-0002-2783-5951"
-title: "mplx"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
+title: "Matplotlib Extension"
+version: 0.0.3
+doi: 10.5281/zenodo.10907511
 date-released: 2024-04-02
 url: "https://github.com/tomographyyy/mplx"
