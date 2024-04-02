@@ -33,3 +33,6 @@ along.plot(line1, loc, marker="o", fillstyle="top", rotate=0  , reflect=True, ma
 along.plot(line2, loc, marker=arrow2, fillstyle="none", rotate=0  , reflect=False, margin=0.1,
 　　　　　　kw=dict(zorder=0, markerfacecolor="none", markeredgecolor="k", markersize=15))
 ```
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/tomographyyy/mplx/assets/34155315/2a9eabc9-600d-4f44-89cb-39a966aaecd0"> 
+</p>
