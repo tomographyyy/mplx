@@ -4,7 +4,7 @@ authors:
 - family-names: "Takagawa"
   given-names: "Tomohiro"
   orcid: "https://orcid.org/0000-0002-2783-5951"
-title: "My Research Software"
+title: "Matplotlib Extension Software"
 version: 0.0.1
 doi: 10.5281/zenodo.1234
 date-released: 2024-04-02
