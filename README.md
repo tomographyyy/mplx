@@ -1,6 +1,10 @@
 # mplx
 matplotlib extension package
 
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/tomographyyy/mplx/assets/34155315/2a9eabc9-600d-4f44-89cb-39a966aaecd0"> 
+</p>
+
 ## Install
 ```sh
 pip install git+https://github.com/tomographyyy/mplx.git
@@ -39,6 +43,7 @@ along.plot(line2, loc, marker=arrow2, fillstyle="none",
            kw=dict(zorder=0, markerfacecolor="none", 
                    markeredgecolor="C2", markersize=20, markeredgewidth=2))
 ```
-<p align="center" width="100%">
+## Output:
+<p align="left" width="100%">
     <img width="60%" src="https://github.com/tomographyyy/mplx/assets/34155315/2a9eabc9-600d-4f44-89cb-39a966aaecd0"> 
 </p>
