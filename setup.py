@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='mplx',  # name of package shown by "pip list"
-    version="0.0.1",
+    version="0.0.3",
     description="matplotlib extension package",
-    author='tomographyyy',
+    author='Tomohiro TAKAGAWA',
     packages=find_packages(),  # define list of modules
-    license='MIT'
+    license='Apache-2.0'
 )
